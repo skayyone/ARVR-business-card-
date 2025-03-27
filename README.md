@@ -11,3 +11,4 @@ Scan the QR
 then again scan the QR 
 
 thats it 
+![image](https://github.com/user-attachments/assets/abbabd6c-fe14-4b54-b1a3-c7cbe6366422)
